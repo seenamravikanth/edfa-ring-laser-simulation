@@ -54,13 +54,6 @@ Run the simulation locally:
 python edfa_ring_laser.py
 ```
 
-The script generates plots for the pump power, intracavity signal, forward ASE, backward ASE, and normalized upper-state population.
-
-## Important Notes
-
-This is a reconstructed numerical model based on the project report. The implementation and convergence behaviour require testing before the results can be considered validated. The reported parameter set is intended to represent a below-threshold, non-lasing case.
-
-The model uses simplified propagation and rate equations. Its physical assumptions and ring-cavity boundary conditions should be reviewed before using it for quantitative predictions.
 
 ## Reference
 
