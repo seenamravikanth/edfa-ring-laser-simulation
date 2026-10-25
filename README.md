@@ -5,7 +5,7 @@ Python-based numerical study of the steady-state behaviour of an erbium-doped fi
 
 ## Project Overview
 
-This project reconstructs a numerical model based on a PSE602 course-project report. It studies optical power propagation, erbium population inversion, amplified spontaneous emission (ASE), and ring-cavity feedback.
+This project reconstructs a numerical model based project report. It studies optical power propagation, erbium population inversion, amplified spontaneous emission (ASE), and ring-cavity feedback.
 
 ## Model Parameters
 
